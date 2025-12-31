@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**Dalina** is my personal portfolio website designed to showcase my projects, technical skills, and professional background as a Computer Science Engineering student and aspiring software engineer.
+**Dalina** a personal portfolio website designed for a friend who is a graphic designer.
 
 The goal of this project is to provide recruiters and collaborators with a **clear, modern, and accessible overview** of who I am, what I build, and how to contact me — all in one place.
 
